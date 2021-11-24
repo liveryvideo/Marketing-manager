@@ -1,5 +1,5 @@
 # Marketing-manager
-Make a pull request on our team
+Create a pull request on our team
 
 Marketing manager wanted - Amsterdam - full-time
 
@@ -26,6 +26,6 @@ As the marketing manager, you will be responsible for defining and executing a g
 - Ambition to grow the company in collaboration with the rest of the team
 
 
-Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as making a pull request :-)
+Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as creating a pull request :-)
 
 Direct applications only; No agencies please.
